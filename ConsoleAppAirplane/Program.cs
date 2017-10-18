@@ -10,7 +10,7 @@ namespace ConsoleAppAirplane
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Commit");
+            //Console.WriteLine("Test Commit");
         }
     }
 }
